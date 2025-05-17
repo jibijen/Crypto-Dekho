@@ -1,5 +1,5 @@
 # 🚀 Crypto-Dekho
-Crypto-Dekhoju is a sleek and interactive cryptocurrency tracker built using React JS, Material UI, and Chart.js. It provides real-time insights into the crypto market with clean visuals and a user-friendly interface.
+Crypto-Dekho is a sleek and interactive cryptocurrency tracker built using React JS, Material UI, and Chart.js. It provides real-time insights into the crypto market with clean visuals and a user-friendly interface.
 
 # 🔍 Features
 
