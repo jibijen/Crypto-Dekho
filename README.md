@@ -27,3 +27,12 @@ Real-time search API to filter cryptocurrencies by name or symbol.
 ⚛️ React JS
 📊 Chart.js
 🎨 Material UI
+
+## Screenshots:- 
+![Screenshot 2025-04-19 190918](https://github.com/user-attachments/assets/e9a9872e-d11e-4384-a3f5-f889191caea6)
+
+![Screenshot 2025-04-19 190902](https://github.com/user-attachments/assets/23239026-f183-4a85-9f56-c4adfe2db537)
+
+![Screenshot 2025-04-19 190851](https://github.com/user-attachments/assets/0831bb7b-4039-4615-8d6f-a978d5800bbd)
+
+
